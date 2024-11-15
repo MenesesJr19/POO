@@ -1,0 +1,46 @@
+<DADOS>
+    <DEFINICOES>
+        <NOME>Casino POO</NOME>
+        <MAX_JOG>50</MAX_JOG>
+        <HORA_INICIO>22</HORA_INICIO>
+        <HORA_FIM>26</HORA_FIM>
+    </DEFINICOES>
+    <LISTA_MAQ>
+        <MAQUINA>
+            <NOME>Blackjack</NOME>
+            <PROB_G>3</PROB_G>
+            <PREMIO>30</PREMIO>
+            <X>10</X>
+            <Y>10</Y>
+            <TEMP_AVISO>70</TEMP_AVISO>
+            <PROB_AVARIAR>5</PROB_AVARIAR>
+        </MAQUINA>
+        <MAQUINA>
+            <NOME>Roleta</NOME>
+            <PROB_G>5</PROB_G>
+            <PREMIO>60</PREMIO>
+            <X>20</X>
+            <Y>10</Y>
+            <TEMP_AVISO>50</TEMP_AVISO>
+            <PROB_AVARIAR>3</PROB_AVARIAR>
+        </MAQUINA>
+        <MAQUINA>
+            <NOME>Craps</NOME>
+            <PROB_G>7</PROB_G>
+            <PREMIO>40</PREMIO>
+            <X>30</X>
+            <Y>10</Y>
+            <TEMP_AVISO>80</TEMP_AVISO>
+            <PROB_AVARIAR>6</PROB_AVARIAR>
+        </MAQUINA>
+        <MAQUINA>
+            <NOME>Classic Slots</NOME>
+            <PROB_G>5</PROB_G>
+            <PREMIO>10</PREMIO>
+            <X>40</X>
+            <Y>10</Y>
+            <TEMP_AVISO>60</TEMP_AVISO>
+            <PROB_AVARIAR>4</PROB_AVARIAR>
+        </MAQUINA>
+    </LISTA_MAQ>
+</DADOS>
