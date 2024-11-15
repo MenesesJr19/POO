@@ -1,0 +1,235 @@
+# depslib dependency file v1.0
+1706687113 source:c:\users\roque\documents\310124poo-casino\poo-projeto-casino\main.cpp
+	<iostream>
+	"Casino.h"
+	"User.h"
+	"Maquina.h"
+
+1706676255 source:c:\users\roque\documents\310124poo-casino\poo-projeto-casino\src\xmlparser.cpp
+	"XMLParser.h"
+
+1706676229 c:\users\roque\documents\310124poo-casino\poo-projeto-casino\include\xmlparser.h
+	<iostream>
+	<string>
+	<fstream>
+	<list>
+
+1706676385 source:c:\users\roque\documents\310124poo-casino\poo-projeto-casino\src\objectoxml.cpp
+	"ObjectoXML.h"
+
+1706676374 c:\users\roque\documents\310124poo-casino\poo-projeto-casino\include\objectoxml.h
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+	<list>
+	<map>
+	<conio.h>
+
+1707064840 source:c:\users\roque\documents\310124poo-casino\poo-projeto-casino\src\user.cpp
+	"User.h"
+
+1707043347 c:\users\roque\documents\310124poo-casino\poo-projeto-casino\include\user.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<ctime>
+
+1707045569 source:c:\users\roque\documents\310124poo-casino\poo-projeto-casino\src\maquina.cpp
+	"Maquina.h"
+
+1707045553 c:\users\roque\documents\310124poo-casino\poo-projeto-casino\include\maquina.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<limits>
+	"User.h"
+
+1707062797 source:c:\users\roque\documents\310124poo-casino\poo-projeto-casino\src\casino.cpp
+	"Casino.h"
+
+1707049602 c:\users\roque\documents\310124poo-casino\poo-projeto-casino\include\casino.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<limits>
+	<list>
+	<algorithm>
+	<sstream>
+	<cstdlib>
+	<ctime>
+	<Windows.h>
+	"User.h"
+	"Maquina.h"
+	"XMLParser.h"
+	"ObjectoXML.h"
+	"XMLWriter.h"
+
+1707048431 c:\users\roque\documents\310124poo-casino\poo-projeto-casino\include\xmlwriter.h
+	<iostream>
+	<string>
+	<fstream>
+	<list>
+
+1707048457 source:c:\users\roque\documents\310124poo-casino\poo-projeto-casino\src\xmlwriter.cpp
+	"XMLWriter.h"
+
+1708286751 source:c:\users\roque\documents\poo-novo-recurso\main.cpp
+	<iostream>
+	"Casino.h"
+	"User.h"
+	"Maquina.h"
+
+1708289700 c:\users\roque\documents\poo-novo-recurso\include\casino.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<limits>
+	<list>
+	<algorithm>
+	<sstream>
+	<cstdlib>
+	<ctime>
+	<Windows.h>
+	"User.h"
+	"Maquina.h"
+	"XMLParser.h"
+	"ObjectoXML.h"
+	"XMLWriter.h"
+
+1708286751 c:\users\roque\documents\poo-novo-recurso\include\user.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<ctime>
+
+1708346921 c:\users\roque\documents\poo-novo-recurso\include\maquina.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<limits>
+	"User.h"
+
+1708286751 c:\users\roque\documents\poo-novo-recurso\include\xmlparser.h
+	<iostream>
+	<string>
+	<fstream>
+	<list>
+
+1708286750 c:\users\roque\documents\poo-novo-recurso\include\objectoxml.h
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+	<list>
+	<map>
+	<conio.h>
+
+1708286751 c:\users\roque\documents\poo-novo-recurso\include\xmlwriter.h
+	<iostream>
+	<string>
+	<fstream>
+	<list>
+
+1708347392 source:c:\users\roque\documents\poo-novo-recurso\src\casino.cpp
+	"Casino.h"
+
+1708346908 source:c:\users\roque\documents\poo-novo-recurso\src\maquina.cpp
+	"Maquina.h"
+
+1708286751 source:c:\users\roque\documents\poo-novo-recurso\src\objectoxml.cpp
+	"ObjectoXML.h"
+
+1708286751 source:c:\users\roque\documents\poo-novo-recurso\src\user.cpp
+	"User.h"
+
+1708286751 source:c:\users\roque\documents\poo-novo-recurso\src\xmlparser.cpp
+	"XMLParser.h"
+
+1708286751 source:c:\users\roque\documents\poo-novo-recurso\src\xmlwriter.cpp
+	"XMLWriter.h"
+
+1708359001 source:c:\users\josé santos\documents\projetorecursoatualizado\bin\main.cpp
+	<iostream>
+	"Casino.h"
+	"User.h"
+	"Maquina.h"
+
+1708359001 c:\users\josé santos\documents\projetorecursoatualizado\bin\include\casino.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<limits>
+	<list>
+	<algorithm>
+	<sstream>
+	<cstdlib>
+	<ctime>
+	<Windows.h>
+	"User.h"
+	"Maquina.h"
+	"XMLParser.h"
+	"ObjectoXML.h"
+	"XMLWriter.h"
+
+1708359001 c:\users\josé santos\documents\projetorecursoatualizado\bin\include\user.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<ctime>
+
+1708359001 c:\users\josé santos\documents\projetorecursoatualizado\bin\include\maquina.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<limits>
+	"User.h"
+
+1708359001 c:\users\josé santos\documents\projetorecursoatualizado\bin\include\xmlparser.h
+	<iostream>
+	<string>
+	<fstream>
+	<list>
+
+1708359001 c:\users\josé santos\documents\projetorecursoatualizado\bin\include\objectoxml.h
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+	<list>
+	<map>
+	<conio.h>
+
+1708359001 c:\users\josé santos\documents\projetorecursoatualizado\bin\include\xmlwriter.h
+	<iostream>
+	<string>
+	<fstream>
+	<list>
+
+1708361388 source:c:\users\josé santos\documents\projetorecursoatualizado\bin\src\casino.cpp
+	"Casino.h"
+
+1708359002 source:c:\users\josé santos\documents\projetorecursoatualizado\bin\src\maquina.cpp
+	"Maquina.h"
+
+1708359002 source:c:\users\josé santos\documents\projetorecursoatualizado\bin\src\objectoxml.cpp
+	"ObjectoXML.h"
+
+1708359002 source:c:\users\josé santos\documents\projetorecursoatualizado\bin\src\user.cpp
+	"User.h"
+
+1708359002 source:c:\users\josé santos\documents\projetorecursoatualizado\bin\src\xmlparser.cpp
+	"XMLParser.h"
+
+1708359002 source:c:\users\josé santos\documents\projetorecursoatualizado\bin\src\xmlwriter.cpp
+	"XMLWriter.h"
+
